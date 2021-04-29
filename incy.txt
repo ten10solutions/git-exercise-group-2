@@ -21,3 +21,5 @@ Out came the sunshine and dried up all the rain, and
 Incy Wincy Spider climbed up the spout again
 >>>>>>> 915495bc852974fe7911f40c4619f90712c7e7a5
 >>>>>>> 5281797088d5a7d2ea8e34094987f922f8d7bc7b
+
+This message should be able to be committed.
