@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+Incy Wincy Camel climbed up the water spout.
+Down came the rain, and washed the Camel out.
+
+Out came the sunshine and dried up all the rain, and
+<<<<<<< HEAD
+Incy Wincy Spider climbed up the spout again.
+
+These are some changes to the nursery rhyme.
+=======
+Incy Wincy Camel climbed up the spout again.
+=======
+Incy Wincy Cow climbed up the water spout
+Down came the rain, and washed the spider out
+
+Out came the sunshine and dried up all the rain, and 
+Incy Wincy Spider climbed up the spout again
+>>>>>>> 915495bc852974fe7911f40c4619f90712c7e7a5
+>>>>>>> 5281797088d5a7d2ea8e34094987f922f8d7bc7b
