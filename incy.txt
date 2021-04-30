@@ -4,17 +4,12 @@ Down came the rain, and washed the horse out
 Out came the sunshine and dried up all the rain, and 
 Incy Wincy horse climbed up the spout again
 Humpty Dumpty fell in great pain,
-<<<<<<< HEAD
 Humpty Dumpty was hit by a train
-=======
 This is Craig's change
->>>>>>> fa9133e9bb84eb685ae8ea08d27b8fe60d496677
 Hello world!
 
 
 
-Hello world!
+Hello world! :)
 
-
-
-I prefer humpty dumpty
+this is it
