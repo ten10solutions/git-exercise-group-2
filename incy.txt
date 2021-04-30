@@ -9,7 +9,4 @@ Hello world!
 
 
 
-<<<<<<< HEAD
 Hello world! :)
-=======
->>>>>>> fa9133e9bb84eb685ae8ea08d27b8fe60d496677
