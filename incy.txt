@@ -1,30 +1,5 @@
-<<<<<<< HEAD
-Incy Wincy Camel climbed up the water spout.
-<<<<<<< HEAD
-Down came the tornado, and spun the Camel out.
-
-=======
-Down came the rain, and washed the Camel out.
-
-Out came the sunshine and dried up all the rain, and
-<<<<<<< HEAD
-Incy Wincy Spider climbed up the spout again.
-
-<<<<<<< HEAD
-I did a thing.
-=======
-These are some changes to the nursery rhyme.
->>>>>>> 8d2159533ad2bf48b119061cb984e912efa6590b
-=======
-Incy Wincy Camel climbed up the spout again.
-=======
-Incy Wincy Cow climbed up the water spout
-Down came the rain, and washed the spider out
+Incy Wincy horse climbed up the water spout
+Down came the rain, and washed the horse out
 
 Out came the sunshine and dried up all the rain, and 
-Incy Wincy Spider climbed up the spout again
->>>>>>> 915495bc852974fe7911f40c4619f90712c7e7a5
->>>>>>> 5281797088d5a7d2ea8e34094987f922f8d7bc7b
-
-This message should be able to be committed.
->>>>>>> f122d55ad9cb39894bab02f4ccbef7f4b8511270
+Incy Wincy horse climbed up the spout again
