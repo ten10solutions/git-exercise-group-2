@@ -7,7 +7,3 @@ Incy Wincy Spider climbed up the spout again!
 CB
 
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 467339a79e12b789be6dbadfbbb6762677798ffb
