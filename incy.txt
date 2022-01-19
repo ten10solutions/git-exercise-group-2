@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Incy Wincy Spider climbed up the water spout.
 Down came the rain, and the spider started to shout.
 
@@ -6,3 +7,10 @@ Incy Wincy Spider climbed up the spout again.
 
 
 
+=======
+Incy Wincy Spider, climbed up the water spout.
+Down came the rain, and washed the spider out.
+
+Out came the sunshine and dried up all the rain, and
+Incy Wincy Spider climbed up the spout again!
+>>>>>>> 4b488d5d8cd620b95f304ae8974129a7f90b9e1a
